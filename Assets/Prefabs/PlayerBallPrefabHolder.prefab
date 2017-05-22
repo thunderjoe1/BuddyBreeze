@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 114805147492211330}
   - component: {fileID: 54071673077227364}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: GroundCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -164,7 +164,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1037537545942334}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1505.2599, y: 135.91464, z: 1186.0182}
+  m_LocalPosition: {x: 2033.9349, y: 451.58566, z: 374.92242}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4808279262129000}
@@ -179,7 +179,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1046029639018558}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -96.65991, y: -123.714645, z: 67.381836}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4490957141264866}
@@ -411,6 +411,7 @@ MonoBehaviour:
   jumpTimeMax: 0.25
   onGround: 0
   maxVelocity: 0
+  camera: {fileID: 1888925081435570}
 --- !u!124 &124993808867058714
 Behaviour:
   m_ObjectHideFlags: 1

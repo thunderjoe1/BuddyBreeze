@@ -18,6 +18,7 @@ public class PlayerBallMove : MonoBehaviour
 	public float jumpTimeMax; //The time, in seconds, the player can hold to jump button to increase their jump height.
 	public bool onGround; //This variable is true if the player can jump(is touching the ground).
 	public float maxVelocity; //The max speed the player ball can move at.
+	public GameObject camera; //The camera tied to this gameobject.
 
 	void Start ()
 	{
@@ -65,6 +66,14 @@ public class PlayerBallMove : MonoBehaviour
 		if((rb.velocity.z >= maxVelocity)||(rb.velocity.z <= -1 * maxVelocity))
 		{
 			rb.AddForce (new Vector3(0f,0f,maxVelocity-rb.velocity.z));
+		}
+	}
+
+	void OnTriggerStay (Collider col)
+	{
+		if(col.GetComponent <EnvironmentWindScript> ())
+		{
+			rb.AddForce (col.GetComponent <EnvironmentWindScript>().windForce * 0.25f * col.transform.up);
 		}
 	}
 }

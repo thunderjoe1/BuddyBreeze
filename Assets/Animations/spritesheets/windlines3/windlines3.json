@@ -1,0 +1,11 @@
+{
+    "sheets": [
+        { 
+            "coordinatesFileName": "windlines3.plist",
+            "textureFileName": "windlines3.png",
+            "width": 2100.0,
+            "height": 4000.0
+        }
+    ],
+    "signature": "27d1c65bee195149768dd50422a1f42db8e32ae0"
+}

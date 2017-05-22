@@ -1,0 +1,622 @@
+fileFormatVersion: 2
+guid: 415fd6fe8b0404817b710b3d605ef570
+timeCreated: 1495418101
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: windlines3_0
+    21300002: windlines3_1
+    21300004: windlines3_2
+    21300006: windlines3_3
+    21300008: windlines3_4
+    21300010: windlines3_5
+    21300012: windlines3_6
+    21300014: windlines3_7
+    21300016: windlines3_8
+    21300018: windlines3_9
+    21300020: windlines3_10
+    21300022: windlines3_11
+    21300024: windlines3_12
+    21300026: windlines3_13
+    21300028: windlines3_14
+    21300030: windlines3_15
+    21300032: windlines3_16
+    21300034: windlines3_17
+    21300036: windlines3_18
+    21300038: windlines3_19
+    21300040: windlines3_20
+    21300042: windlines3_21
+    21300044: windlines3_22
+    21300046: windlines3_23
+    21300048: windlines3_24
+    21300050: windlines3_25
+    21300052: windlines3_26
+    21300054: windlines3_27
+    21300056: windlines3_28
+    21300058: windlines3_29
+    21300060: windlines3_30
+    21300062: windlines3_31
+    21300064: windlines3_32
+    21300066: windlines3_33
+    21300068: windlines3_34
+    21300070: windlines3_35
+    21300072: windlines3_36
+    21300074: windlines3_37
+    21300076: windlines3_38
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: windlines3_0
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 3728
+        width: 7
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3401
+        width: 10
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_2
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3401
+        width: 23
+        height: 14
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_3
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 3401
+        width: 39
+        height: 18
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_4
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3401
+        width: 53
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3370
+        width: 24
+        height: 14
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3372
+        width: 37
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3044
+        width: 82
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_8
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3044
+        width: 112
+        height: 36
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_9
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 3044
+        width: 142
+        height: 41
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_10
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3044
+        width: 173
+        height: 42
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2687
+        width: 197
+        height: 41
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_12
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2687
+        width: 217
+        height: 41
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_13
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2687
+        width: 234
+        height: 41
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_14
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2687
+        width: 250
+        height: 41
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2327
+        width: 264
+        height: 43
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_16
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2327
+        width: 281
+        height: 43
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_17
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2327
+        width: 316
+        height: 43
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_18
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2327
+        width: 348
+        height: 43
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1970
+        width: 371
+        height: 42
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_20
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1970
+        width: 389
+        height: 42
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_21
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1970
+        width: 405
+        height: 42
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_22
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1970
+        width: 417
+        height: 42
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1612
+        width: 429
+        height: 41
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_24
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1612
+        width: 429
+        height: 41
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_25
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1612
+        width: 431
+        height: 41
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_26
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1612
+        width: 430
+        height: 41
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1253
+        width: 429
+        height: 43
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_28
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1253
+        width: 429
+        height: 43
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_29
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1253
+        width: 429
+        height: 43
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_30
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1253
+        width: 430
+        height: 43
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 896
+        width: 429
+        height: 42
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_32
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 896
+        width: 429
+        height: 42
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_33
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 896
+        width: 429
+        height: 42
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_34
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 896
+        width: 429
+        height: 42
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 538
+        width: 429
+        height: 41
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_36
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 538
+        width: 429
+        height: 41
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_37
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 538
+        width: 431
+        height: 41
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlines3_38
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 538
+        width: 430
+        height: 41
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

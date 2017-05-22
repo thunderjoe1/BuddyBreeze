@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 31b90003adfda4b0a9cc04523045be7b
+timeCreated: 1495420334
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: windlinesspritesheet_0
+    21300002: windlinesspritesheet_1
+    21300004: windlinesspritesheet_2
+    21300006: windlinesspritesheet_3
+    21300008: windlinesspritesheet_4
+    21300010: windlinesspritesheet_5
+    21300012: windlinesspritesheet_6
+    21300014: windlinesspritesheet_7
+    21300016: windlinesspritesheet_8
+    21300018: windlinesspritesheet_9
+    21300020: windlinesspritesheet_10
+    21300022: windlinesspritesheet_11
+    21300024: windlinesspritesheet_12
+    21300026: windlinesspritesheet_13
+    21300028: windlinesspritesheet_14
+    21300030: windlinesspritesheet_15
+    21300032: windlinesspritesheet_16
+    21300034: windlinesspritesheet_17
+    21300036: windlinesspritesheet_18
+    21300038: windlinesspritesheet_19
+    21300040: windlinesspritesheet_20
+    21300042: windlinesspritesheet_21
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: windlinesspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1791.6666
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1791.6666
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1433.6666
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1433.6666
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1433.6666
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1433.6666
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1075.6666
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1075.6666
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1075.6666
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1075.6666
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 717.6666
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 717.6666
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 717.6666
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 717.6666
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359.66666
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 359.66666
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 359.66666
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 359.66666
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.6666565
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1.6666565
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1.6666565
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: windlinesspritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1.6666565
+        width: 512
+        height: 358.33334
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

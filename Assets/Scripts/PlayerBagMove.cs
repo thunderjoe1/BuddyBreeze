@@ -61,6 +61,7 @@ public class PlayerBagMove : MonoBehaviour
 		{
 			rb.AddForce (0f,jumpForce * Time.deltaTime,0f);
 		}
+			
 	}
 
 	void OnTriggerStay (Collider col)
@@ -69,6 +70,9 @@ public class PlayerBagMove : MonoBehaviour
 		{
 			rb.AddForce (col.GetComponent <EnvironmentWindScript>().windForce * col.transform.up);
 			rb.AddForce (new Vector3(0f,30f,0f));
+		}else if(col.GetComponent <EnvironmentWindScript> ())
+		{
+			rb.AddForce (col.GetComponent <EnvironmentWindScript>().windForce * 0.05f * col.transform.up);
 		}
 	}
 }

@@ -68,4 +68,12 @@ public class PlayerBallMove : MonoBehaviour
 			rb.AddForce (new Vector3(0f,0f,maxVelocity-rb.velocity.z));
 		}
 	}
+
+	void OnTriggerStay (Collider col)
+	{
+		if(col.GetComponent <EnvironmentWindScript> ())
+		{
+			rb.AddForce (col.GetComponent <EnvironmentWindScript>().windForce * 0.25f * col.transform.up);
+		}
+	}
 }
